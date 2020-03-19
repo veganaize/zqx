@@ -1,2 +1,2 @@
 # zqx
-a closed source operating system
+an open source operating system
