@@ -11,6 +11,10 @@ an open source operating system
 ---
 
 ### Essential Utilities
+* Collections
+  - [gnu core utils](https://en.wikipedia.org/wiki/GNU_Core_Utilities)
+  - [heirloom project](https://heirloom.sourceforge.net/index.html)
+  - [toybox](https://en.wikipedia.org/wiki/Toybox)
 * Compression / Archiving
   - [bzip2](https://en.wikipedia.org/wiki/Bzip2)
   - [deflate](https://en.wikipedia.org/wiki/Deflate) including [gzip](https://en.wikipedia.org/wiki/Gzip); [zip](https://en.wikipedia.org/wiki/ZIP_(file_format)); [zlib](https://en.wikipedia.org/wiki/Zlib)
