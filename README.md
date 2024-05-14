@@ -3,6 +3,13 @@ an open source operating system
 
 ---
 
+### Libc Considerations
+* [bionic](https://en.wikipedia.org/wiki/Bionic_(software))
+* [glibc](https://en.wikipedia.org/wiki/Glibc)
+* [musl](https://en.wikipedia.org/wiki/Musl)
+
+---
+
 ### Essential Utilities
 * Compression / Archiving
   - [bzip2](https://en.wikipedia.org/wiki/Bzip2)
