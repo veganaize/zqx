@@ -11,7 +11,7 @@ an open source operating system
 ---
 
 ### Essential Utilities
-* Collections
+* Collections (Optional)
   - [gnu core utils](https://en.wikipedia.org/wiki/GNU_Core_Utilities)
   - [heirloom project](https://heirloom.sourceforge.net/index.html)
   - [toybox](https://en.wikipedia.org/wiki/Toybox)
