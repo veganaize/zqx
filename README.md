@@ -11,6 +11,9 @@ an open source operating system
 ---
 
 ### Essential Utilities
+* C/C++ Compilers
+  - [clang](https://en.wikipedia.org/wiki/Clang) _([cross compiling](https://clang.llvm.org/docs/CrossCompilation.html))_
+  - [gcc](https://en.wikipedia.org/wiki/GNU_Compiler_Collection) _([cross compiling](https://osdev.org/GCC_Cross-Compiler))_
 * Collections (Optional)
   - [gnu core utils](https://en.wikipedia.org/wiki/GNU_Core_Utilities)
   - [heirloom project](https://heirloom.sourceforge.net/index.html)
