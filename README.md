@@ -13,6 +13,12 @@ an open source operating system
 
 ---
 
+* [unix v1 c library routines](https://www.bell-labs.com/usr/dmr/www/pdfs/man31.pdf)
+* [unix v1 system calls](https://www.bell-labs.com/usr/dmr/www/pdfs/man21.pdf) part 1
+* [unix v1 system calls](https://www.bell-labs.com/usr/dmr/www/pdfs/man22.pdf) part 2
+
+---
+
 ### Essential Utilities
 * C/C++ Compilers
   - [clang](https://en.wikipedia.org/wiki/Clang) _([cross compiling](https://clang.llvm.org/docs/CrossCompilation.html))_
