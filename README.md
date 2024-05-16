@@ -5,8 +5,11 @@ an open source operating system
 
 ### Libc Considerations
 * [bionic](https://en.wikipedia.org/wiki/Bionic_(software))
+* [dietlibc](https://en.wikipedia.org/wiki/Dietlibc)
 * [glibc](https://en.wikipedia.org/wiki/Glibc)
 * [musl](https://en.wikipedia.org/wiki/Musl)
+* [newlib](https://en.wikipedia.org/wiki/Newlib)
+* [ulibc-ng](https://en.wikipedia.org/wiki/UClibc)
 
 ---
 
