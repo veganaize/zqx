@@ -25,6 +25,13 @@ an open source operating system
 * [INI](https://en.wikipedia.org/wiki/INI_file)
 * [SVG](https://en.wikipedia.org/wiki/SVG)
 
+### File Systems
+* [BTRFS](https://en.wikipedia.org/wiki/Btrfs)
+* [FAT](https://en.wikipedia.org/wiki/File_Allocation_Table)
+* [ISO](https://en.wikipedia.org/wiki/ISO_9660)
+* [MINIX](http://ohm.hgesser.de/sp-ss2012/Intro-MinixFS.pdf)
+* [UDF](https://en.wikipedia.org/wiki/Universal_Disk_Format)
+
 ### Essential Utilities
 * C/C++ Compilers
   - [clang](https://en.wikipedia.org/wiki/Clang) _([cross compiling](https://clang.llvm.org/docs/CrossCompilation.html))_
