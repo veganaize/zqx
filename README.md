@@ -19,6 +19,12 @@ an open source operating system
 
 ---
 
+### File Formats
+* [ANSI](https://en.wikipedia.org/wiki/ANSI_escape_code)
+* [ELF](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
+* [INI](https://en.wikipedia.org/wiki/INI_file)
+* [SVG](https://en.wikipedia.org/wiki/SVG)
+
 ### Essential Utilities
 * C/C++ Compilers
   - [clang](https://en.wikipedia.org/wiki/Clang) _([cross compiling](https://clang.llvm.org/docs/CrossCompilation.html))_
