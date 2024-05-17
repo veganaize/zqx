@@ -48,3 +48,4 @@ an open source [operating system](https://en.wikipedia.org/wiki/Operating_system
 
 ### Reference
 * [os lectures](https://www.youtube.com/playlist?list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k) - umass
+* [xv6 kernel playlist](https://www.youtube.com/playlist?list=PLbtzT1TYeoMhTPzyTZboW_j7TPAnjv9XB) - hhp3
