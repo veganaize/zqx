@@ -45,3 +45,6 @@ an open source [operating system](https://en.wikipedia.org/wiki/Operating_system
   - [deflate](https://en.wikipedia.org/wiki/Deflate) including [gzip](https://en.wikipedia.org/wiki/Gzip); [zip](https://en.wikipedia.org/wiki/ZIP_(file_format)); [zlib](https://en.wikipedia.org/wiki/Zlib)
   - [tar](https://en.wikipedia.org/wiki/Tar_(computing)) with [pax](https://en.wikipedia.org/wiki/Pax_(command)) extensions
   - [zstd](https://en.wikipedia.org/wiki/Zstd)
+
+### Reference
+* [os lectures](https://www.youtube.com/playlist?list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k) - umass
