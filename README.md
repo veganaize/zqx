@@ -1,5 +1,5 @@
 # zqx
-an open source operating system
+an open source [operating system](https://en.wikipedia.org/wiki/Operating_system)
 
 ---
 
@@ -20,17 +20,17 @@ an open source operating system
 ---
 
 ### File Formats
-* [ANSI](https://en.wikipedia.org/wiki/ANSI_escape_code)
-* [ELF](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
-* [INI](https://en.wikipedia.org/wiki/INI_file)
-* [SVG](https://en.wikipedia.org/wiki/SVG)
+* [ansi](https://en.wikipedia.org/wiki/ANSI_escape_code)
+* [elf](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
+* [ini](https://en.wikipedia.org/wiki/INI_file)
+* [svg](https://en.wikipedia.org/wiki/SVG)
 
 ### File Systems
-* [BTRFS](https://en.wikipedia.org/wiki/Btrfs)
-* [FAT](https://en.wikipedia.org/wiki/File_Allocation_Table)
-* [ISO](https://en.wikipedia.org/wiki/ISO_9660)
-* [MINIX](http://ohm.hgesser.de/sp-ss2012/Intro-MinixFS.pdf)
-* [UDF](https://en.wikipedia.org/wiki/Universal_Disk_Format)
+* [btrfs](https://en.wikipedia.org/wiki/Btrfs)
+* [fat](https://en.wikipedia.org/wiki/File_Allocation_Table)
+* [iso](https://en.wikipedia.org/wiki/ISO_9660)
+* [minix](http://ohm.hgesser.de/sp-ss2012/Intro-MinixFS.pdf)
+* [udf](https://en.wikipedia.org/wiki/Universal_Disk_Format)
 
 ### Essential Utilities
 * C/C++ Compilers
