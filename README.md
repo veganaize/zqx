@@ -33,6 +33,9 @@ an open source [operating system](https://en.wikipedia.org/wiki/Operating_system
 * [udf](https://en.wikipedia.org/wiki/Universal_Disk_Format)
 
 ### Essential Utilities
+* Assemblers
+  - [gnu assembler](https://en.wikipedia.org/wiki/GNU_Assembler) _([user guide](https://sourceware.org/binutils/docs/as/))_
+  - [jwasm](https://www.japheth.de/JWasm.html)
 * C/C++ Compilers
   - [clang](https://en.wikipedia.org/wiki/Clang) _([cross compiling](https://clang.llvm.org/docs/CrossCompilation.html))_
   - [gcc](https://en.wikipedia.org/wiki/GNU_Compiler_Collection) _([cross compiling](https://osdev.org/GCC_Cross-Compiler))_
@@ -47,7 +50,6 @@ an open source [operating system](https://en.wikipedia.org/wiki/Operating_system
   - [zstd](https://en.wikipedia.org/wiki/Zstd)
 
 ### Reference
-* [gnu assembler (user guide)](https://sourceware.org/binutils/docs/as/) - sourceware
 * [os lectures](https://www.youtube.com/playlist?list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k) - umass
 * [x86 assembly guide (at&t syntax)](https://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html) - yale
 * [x86 assembly language](https://en.wikipedia.org/wiki/X86_assembly_language) - wikipedia
