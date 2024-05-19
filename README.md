@@ -13,9 +13,9 @@ an open source [operating system](https://en.wikipedia.org/wiki/Operating_system
 
 ---
 
-* [unix v1 c library routines](https://www.bell-labs.com/usr/dmr/www/pdfs/man31.pdf)
-* [unix v1 system calls](https://www.bell-labs.com/usr/dmr/www/pdfs/man21.pdf) part 1
-* [unix v1 system calls](https://www.bell-labs.com/usr/dmr/www/pdfs/man22.pdf) part 2
+* [unix v1 library routines](http://web.archive.org/web/20230326184703id_/https://www.bell-labs.com/usr/dmr/www/pdfs/man31.pdf)
+* [unix v1 system calls](http://web.archive.org/web/20230326184703id_/https://www.bell-labs.com/usr/dmr/www/pdfs/man21.pdf) part 1
+* [unix v1 system calls](http://web.archive.org/web/20230326184703id_/https://www.bell-labs.com/usr/dmr/www/pdfs/man22.pdf) part 2
 
 ---
 
