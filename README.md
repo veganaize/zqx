@@ -47,5 +47,9 @@ an open source [operating system](https://en.wikipedia.org/wiki/Operating_system
   - [zstd](https://en.wikipedia.org/wiki/Zstd)
 
 ### Reference
+* [gnu assembler (user guide)](https://sourceware.org/binutils/docs/as/) - sourceware
 * [os lectures](https://www.youtube.com/playlist?list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k) - umass
-* [xv6 kernel playlist](https://www.youtube.com/playlist?list=PLbtzT1TYeoMhTPzyTZboW_j7TPAnjv9XB) - hhp3
+* [x86 assembly guide (at&t syntax)](https://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html) - yale
+* [x86 assembly language](https://en.wikipedia.org/wiki/X86_assembly_language) - wikipedia
+* [xv6 book (risc-v)](https://pdos.csail.mit.edu/6.828/2023/xv6/book-riscv-rev3.pdf) - mit
+* [xv6 kernel (playlist)](https://www.youtube.com/playlist?list=PLbtzT1TYeoMhTPzyTZboW_j7TPAnjv9XB) - hhp3
