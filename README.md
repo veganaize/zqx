@@ -35,7 +35,7 @@ an open source [operating system](https://en.wikipedia.org/wiki/Operating_system
 ### Essential Utilities
 * Assemblers
   - [gnu assembler](https://en.wikipedia.org/wiki/GNU_Assembler) _([user guide](https://sourceware.org/binutils/docs/as/))_
-  - [jwasm](https://www.japheth.de/JWasm.html)
+  - [jwasm](https://www.japheth.de/JWasm.html) _(osdev: [jwasm](https://wiki.osdev.org/JWASM); [masm](https://wiki.osdev.org/MASM))_
 * C/C++ Compilers
   - [clang](https://en.wikipedia.org/wiki/Clang) _([cross compiling](https://clang.llvm.org/docs/CrossCompilation.html))_
   - [gcc](https://en.wikipedia.org/wiki/GNU_Compiler_Collection) _([cross compiling](https://osdev.org/GCC_Cross-Compiler))_
