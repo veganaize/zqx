@@ -56,4 +56,5 @@ an open source [operating system](https://en.wikipedia.org/wiki/Operating_system
   - [x86 assembly language](https://en.wikipedia.org/wiki/X86_assembly_language) - wikipedia
 * xv6
   - [xv6 book (risc-v)](https://pdos.csail.mit.edu/6.828/2023/xv6/book-riscv-rev3.pdf) - mit
+  - [xv6 book (x86)](https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf) - mit
   - [xv6 kernel (playlist)](https://www.youtube.com/playlist?list=PLbtzT1TYeoMhTPzyTZboW_j7TPAnjv9XB) - hhp3
